@@ -1,0 +1,11 @@
+[package]
+name = "read-raw-ext4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.5.0"
+color-eyre = "0.6.3"
+custom_debug = "0.6.2"
+hex-slice = "0.1.4"
+positioned-io = "0.3.3"
